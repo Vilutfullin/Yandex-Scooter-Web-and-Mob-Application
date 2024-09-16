@@ -26,9 +26,9 @@
 3. Протестировать API и оформить баг-репорты (по необходимости) 
 
 Порядок выполнения проекта:
-* Составил <a href="https://docs.google.com/spreadsheets/d/1u9ZAcu5xlv3YYTLn9ONCGMnQWo_e5zI7MEuEEO7xxoo/edit?gid=943703744#gid=943703744">чек-лист</a> на валидацию полей формы бронирования
+* Составил <a href="https://docs.google.com/spreadsheets/d/1u9ZAcu5xlv3YYTLn9ONCGMnQWo_e5zI7MEuEEO7xxoo/edit?gid=1540465171#gid=1540465171">чек-лист</a> на валидацию полей формы бронирования
 * Написал <a href="https://docs.google.com/spreadsheets/d/1u9ZAcu5xlv3YYTLn9ONCGMnQWo_e5zI7MEuEEO7xxoo/edit?gid=424948590#gid=424948590">тест-кейсы</a> на логику работы пуш-уведомлений в Android-приложении 
-* Составил <a href="">чек-лист</a> функциональности экрана «Статус заказа»
+* Составил <a href="https://docs.google.com/spreadsheets/d/1u9ZAcu5xlv3YYTLn9ONCGMnQWo_e5zI7MEuEEO7xxoo/edit?gid=943703744#gid=943703744">чек-лист</a> функциональности экрана «Статус заказа»
 * Протестировал при помощи Charles новую функциональность, разработанную только на бэкэнде
 * Разработал <a href="https://docs.google.com/spreadsheets/d/1u9ZAcu5xlv3YYTLn9ONCGMnQWo_e5zI7MEuEEO7xxoo/edit?gid=336872680#gid=336872680">чек-лист</a> проверок API и проверил их через <a href="[https://www.postman.com](https://web.postman.co/workspace/My-Workspace~b153c951-deb8-4924-8bfa-96808aac3187/request/36293727-615974c8-e2e0-43bd-b169-e76be68b5ecc)">Postman
 * Завел баг-репорты по результатам проведенных проверок сервиса "Яндекс.Самокат" (<a href="https://vil.youtrack.cloud/tag/Диплом%20Задание%201-7">БР веб-приложения</a>, <a href="https://vil.youtrack.cloud/issues?q=tag:%20%7BДиплом%20Задание%202%7D">БР моб-приложения</a>, <a href="https://vil.youtrack.cloud/tag/Диплом%20Задание%203-9">БР API-приложения</a>)
